@@ -1,1 +1,1 @@
-# wells-fargo-analytics
+new material: the sentiment word clouds are new. These were constructed using the cleaned text and sentiment scores, and are important to understanding the content of very positive and negative posts. Prior to this component being added, the only sentiment-based analysis was mean sentiment scores by mediatype. Also calculated the global sentiment score for each subset of the data, which allows the sentiments to be compared on the same scale.
